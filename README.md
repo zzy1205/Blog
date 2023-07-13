@@ -13,11 +13,16 @@ Uploading（from Onenote to vscode markdown, and finally Typora
 ## Sort（commonplace
 代码实现及扩展
 
-## 60w年薪吊打面试官
+## c++ from rookie to rookie
 涵盖超广泛，从c++基础到c++进阶，从leetcode到cuda，还有nsight等超多笔记
 前期通过onenote记录，后续会逐渐总结至markdown
 当前pdf没有目录，在此附上
 
-
 ## Docker学习
 [狂神](https://www.bilibili.com/video/BV1og4y1q7M4/?spm_id_from=333.337.search-card.all.click)讲的真好啊
+
+## 网络编程板块
+  ### IO多路复用
+  ### Reactor网络模型原理
+
+## 现代cmake学习
