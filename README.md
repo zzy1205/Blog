@@ -17,8 +17,8 @@ Uploading（from Onenote to vscode markdown, and finally Typora
 涵盖超广泛，从c++基础到c++进阶，从leetcode到cuda，还有nsight等超多笔记
 前期通过onenote记录，后续会逐渐总结至markdown
 当前pdf没有目录，在此附上
-<img src = "./OneNoteDir1.png">
-<img src = "./OneNoteDir2.png">
+<img src = "./OneNoteDir1.png" style = "zoom=50%" align = "center"/>
+<img src = "./OneNoteDir2.png" style = "zoom=50%" align = "center"/>
 
 ## Docker学习
 [狂神](https://www.bilibili.com/video/BV1og4y1q7M4/?spm_id_from=333.337.search-card.all.click)讲的真好啊
